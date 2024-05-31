@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fh27/Fh27/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/Fh27/Fh27/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
