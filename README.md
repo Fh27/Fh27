@@ -1,4 +1,4 @@
-<h2 align="left">Md Furqan Hasan || Software Developer || Electronics Engineer</h2>
+<h2 align="left">Md Furqan Hasan || Software Engineer </h2>
 
 ###
 
